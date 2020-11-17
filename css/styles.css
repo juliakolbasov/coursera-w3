@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  html {
+    font-family: "Lucida Sans", sans-serif;
+  }
+  
+
+  .tile {
+    background-color: #33b5e5;
+    padding: 15px 15px 15px 15px;
+    color: #ffffff;
+    font-size: 14px;
+    border: 2px solid rgb(27, 27, 82); 
+    margin-bottom: 25px;   
+  }
+
+  
+  
+ 
